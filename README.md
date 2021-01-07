@@ -1,0 +1,2 @@
+# Cpp-Slam
+Dice game
